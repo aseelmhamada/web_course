@@ -31,7 +31,7 @@ function ShowAlert(){
 
 const btn37= document.querySelector('#btn37');
 
-like2.addEventListener('click', function() {
+btn37.addEventListener('click', function() {
     btn37.style.borderWidth = '4px';
     btn37.style.borderStyle = 'solid';
     btn37.style.border =' 4px solid red';
