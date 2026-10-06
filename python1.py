@@ -122,3 +122,15 @@ Text="coding is fun"
 print(Text[10:])               
 print(Text[::-1])
 print(Text[:6])
+
+#5
+
+data = [42, 10, 77, 2, 15]
+
+largest = max(data)
+total = sum(data)
+sort = sorted(data)
+
+print("Largest number:", largest)
+print("Total sum:", total)
+print("Sorted list:", sort)

@@ -19,3 +19,4 @@ for i in range (1,11):
 plt.plot(range(1,11) , arr , c="blue" , marker="*" )
 plt.show()
 # %%
+y
